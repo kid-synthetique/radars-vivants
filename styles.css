@@ -14,11 +14,11 @@ h1{
 .hero{
   width: 100vw;
   height: 50vh;
-  padding: 20px;
+  padding: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('https://ex.smnarnold.com/git/radars-vivants/fillette-de-face.jpeg') no-repeat 50% 50%;
+  background: url('https://ex.smnarnold.com/git/radars-vivants/fillette-de-dos.jpeg') no-repeat 50% 50%;
   background-size: cover;
 }
 
@@ -32,10 +32,16 @@ h1{
 .description{
   display: flex;
   justify-content: center;
-  padding: 20px;
+  padding: 50px;
 }
 
 .video{
   width: 100vw;
+}
+
+.mise-en-valeur{
+  color: transparent;
+  -webkit-text-stroke: 1px white;
+  text-stroke: 1px white;
 }
 
