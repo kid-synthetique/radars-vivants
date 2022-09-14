@@ -5,3 +5,20 @@ body {
   margin: 0;
 }
 
+h1{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  max-width: 700px;
+}
+.hero{
+  width: 100vw;
+  height: 50vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('https://ex.smnarnold.com/git/radars-vivants/fillette-de-face.jpeg') no-repeat 50% 50%;
+  background-size: cover;
+}
+
