@@ -41,7 +41,8 @@ h1{
 
 .mise-en-valeur{
   color: transparent;
-  -webkit-text-stroke: 1px white;
   text-stroke: 1px white;
+  -webkit-text-stroke: 1px white;
+
 }
 
